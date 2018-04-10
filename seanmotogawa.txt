@@ -1,10 +1,7 @@
 yes
 no
-<<<<<<< HEAD
 maybe
 never
-=======
 perhaps
 sure
->>>>>>> 58fa8d4308759f8018d7568148c504fcb5efd51c
 ok
