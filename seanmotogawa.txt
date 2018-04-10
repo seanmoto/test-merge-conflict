@@ -1,5 +1,5 @@
 yes
 no
-maybe
+perhaps
 sure
 ok
