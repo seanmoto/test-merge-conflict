@@ -1,6 +1,6 @@
 yes
 no
-maybe
+nah
 never
 perhaps
 sure
