@@ -1,5 +1,5 @@
 yes
 no
 maybe
-sure
+never
 ok
